@@ -19,7 +19,7 @@ ignore:
     - '**/*.test.*'
 
 coverage:
-    precision: 2
+    precision: 1
     round: nearest
     range: '50...80'
 
